@@ -1,0 +1,2 @@
+# Microcredential-Pelatihan-Associate-Data-Scientist-2021
+Repository ini berisikan hasil pengerjaan tugas saya selama mengikuti pelatihan Microcredential Pelatihan Associate Data Scientist 2021 yang diadakan oleh Direktorat Jenderal Pendidikan Tinggi Riset dan Teknologi Republik Indonesia pada tanggal 1 November 2021 s/d 10 Desember 2021 dengan Institut Teknologi Bandung sebagai host pelatihan saya
